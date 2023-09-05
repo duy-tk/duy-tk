@@ -9,9 +9,9 @@
 
 ## 🧑‍💻 About Me ⚽ 🎸 🚲 📖
 
-- 🧑‍🎓 I’m currently a third-year student in **[Hanoi University of Science (HUS)](http://hus.vnu.edu.vn/)**
+- 🧑‍🎓 I graduated with a degree in Computer and Information Science at **[Hanoi University of Science (HUS)](http://hus.vnu.edu.vn/)**
 
-- 📖 On my way to learn website developer, Blockchain and ReactJS development.
+- 📖 I specialize in Website development, Blockchain technology, and ReactJS development
 
 - 🗣️ Native Vietnamese, Intermediate English
 
